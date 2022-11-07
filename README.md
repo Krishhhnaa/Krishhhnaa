@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krishhhnaa
 - 👀 I’m interested in ... Full Stack Development
 - 🌱 I’m currently learning ... Full Stack Development
-- 💞️ I’m looking to collaborate on ... Creative Projects
+- 💞️ I’m looking to collaborate on ... Creative Projects to Work on contact me if you have any i am open to work
 - 📫 How to reach me ... kolkarkunal31@gmail.com
 
 <!--- 
